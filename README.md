@@ -2,7 +2,7 @@
 
 Tables:
 
-|Name |Link|
+|Name |Link |Link |
 |---|---|---|
 |   |   |   |
 DDosSecrets Leaks | https://ddosecrets.com/
